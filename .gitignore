@@ -1,0 +1,17 @@
+.env*
+.astro/
+
+npm-debug.log*
+pnpm-debug.log*
+
+node_modules/
+dist/
+
+.terraform/
+*.tfstate*
+.terraform.lock.hcl
+terraform.tfvars
+
+.wrangler/
+
+.dev.vars

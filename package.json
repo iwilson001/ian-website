@@ -1,0 +1,6 @@
+{
+    "name": "ian-website",
+    "type": "module",
+    "author": "Ian Wilson",
+    "packageManager": "pnpm@11.9.0"
+}

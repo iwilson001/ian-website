@@ -1,0 +1,8 @@
+{
+    "name": "blog",
+    "type": "module",
+    "author": "Ian Wilson",
+    "dependencies": {
+        "astro": "7.0.3"
+    }
+}
