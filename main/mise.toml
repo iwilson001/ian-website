@@ -1,0 +1,7 @@
+[tasks.deploy-login]
+description = "Login to get credentials for deployment"
+run = "pnpm wrangler login"
+
+[tasks.deploy]
+description = "Deploy the worker to Cloudflare"
+run = "pnpm run build && pnpm wrangler pages deploy dist"
