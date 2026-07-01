@@ -5,9 +5,9 @@ Ian's Personal Website(s)
 pnpm + typescript + astro + terraform + cloudflare
 
 # Where
-(ianmwilson.com)[https://ianmwilson.com]
+[ianmwilson.com](https://ianmwilson.com)
 
-(blog.ianmwilson.com)[https://blog.ianmwilson.com]
+[blog.ianmwilson.com](https://blog.ianmwilson.com)
 
 # Running
 regular pnpm scripts for development
