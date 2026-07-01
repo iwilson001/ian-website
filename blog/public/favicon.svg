@@ -1,0 +1,22 @@
+<svg width="800px" height="800px" viewBox="0 0 48 48" id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+    .favicon {
+        fill:none;
+        stroke:#000000;
+        stroke-width:3;
+        stroke-linecap:round;
+        stroke-linejoin:round;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .favicon {
+            stroke:#ffffff;
+        }
+    }
+</style>
+</defs>
+<line class="favicon" x1="17.26" y1="37.5" x2="30.74" y2="37.5"/>
+<line class="favicon" x1="17.26" y1="10.5" x2="30.74" y2="10.5"/>
+<line class="favicon" x1="24" y1="10.5" x2="24" y2="37.5"/>
+</svg>

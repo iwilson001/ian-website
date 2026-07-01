@@ -1,0 +1,14 @@
+a {
+    text-decoration: none; /* Removes line */
+    color: inherit; /* Keeps original text color */
+}
+
+html,
+body,
+#root {
+    font-family: "Inter", sans-serif;
+}
+
+svg {
+    color: black;
+}
