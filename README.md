@@ -6,8 +6,10 @@ pnpm + typescript + astro + terraform + cloudflare
 
 # Where
 ianmwilson.com
+
 blog.ianmwilson.com
 
 # Running
 regular pnpm scripts for development
+
 mise tasks for deployment
